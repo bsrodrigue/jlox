@@ -107,6 +107,19 @@ public class Parser {
         return new Stmt.Print(value);
     }
 
+    private Stmt returnStatement(){
+        Token keyword = previous();
+        Expr value = null;
+
+        if(!check(TokenType.SEMICOLON)){
+            value = expression();
+        }
+
+        consume(TokenType.SEMICOLON, "Expect ';' after return value.");
+        return new Stmt.Return(keyword, value);
+
+    }
+
     private Stmt varDeclaration(){
         Token name = consume(TokenType.IDENTIFIER,  "Expect variable name.");
 

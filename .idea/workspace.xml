@@ -4,27 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c40dc6e7-65f2-4004-9a42-67022c57ac95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoxInterpreter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Environment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Expr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenerateAst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoxCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoxFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RuntimeError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stmt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TokenType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.lox" afterDir="false" />
+    <list default="true" id="c40dc6e7-65f2-4004-9a42-67022c57ac95" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/Return.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoxFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoxFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.lox" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.lox" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +93,19 @@
       <option name="presentableId" value="Default" />
       <updated>1672898827352</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1674543164477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674543164477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
