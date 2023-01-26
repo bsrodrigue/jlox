@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c40dc6e7-65f2-4004-9a42-67022c57ac95" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/Return.java" afterDir="false" />
+    <list default="true" id="c40dc6e7-65f2-4004-9a42-67022c57ac95" name="Changes" comment="Add return statement">
+      <change afterPath="$PROJECT_DIR$/src/Resolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Environment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoxFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoxFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.lox" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.lox" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,12 +100,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674543164477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add return statement">
+      <created>1674550188561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674550188561</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Add return statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add return statement" />
   </component>
 </project>
